@@ -1,0 +1,7 @@
+node_modules
+.env.local
+error*.log
+.bzrignore
+.vscode
+*.~*~
+package-lock.json
